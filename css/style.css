@@ -104,6 +104,7 @@ NAVIGATION
 }
 
 .navbar-default .navbar-brand {
+    font-size: 3.5rem;
     color: #34495e;
 }
 .navbar-default .navbar-brand:hover,
