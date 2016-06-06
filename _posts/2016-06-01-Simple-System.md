@@ -291,7 +291,7 @@ rm -rf brew cleanup
 
 <p>查看应用是否被收录：</p>
 
-<p><a href="#" onclick="window.open('https://caskroom.github.io/','_blank','location=no'); return false" ;="">Caskroom</a></p>
+<p><a href="https://caskroom.github.io/">Caskroom</a></p>
 
 <p>应用安装：<code>$brew cask install App_name</code></p>
 
